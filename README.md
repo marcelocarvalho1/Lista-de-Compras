@@ -1,8 +1,37 @@
-# React + Vite
+# 🛒 Lista de Compras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de Lista de Compras simples, desenvolvido com React. A aplicação permite adicionar itens, marcar como comprados e remover da lista. (Terá atualizações em breve)
 
-Currently, two official plugins are available:
+## 🧰 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS**: Para estilização dos componentes.
+- **HTML**: Estruturação básica da aplicação.
+
+## ✨ Funcionalidades
+
+- Adicionar itens à lista.
+- Marcar itens como comprados.
+- Remover itens da lista.
+- Contador de itens totais e itens comprados.
+- Estilo responsivo e amigável para o usuário.
+
+## 🎨 Estrutura do Projeto
+
+O projeto está organizado nos seguintes componentes:
+
+- **Navbar**: Exibe o título da aplicação e a contagem total de itens.
+- **ItemForm**: Formulário para adicionar novos itens.
+- **ShoppingList**: Lista de itens adicionados.
+- **ItemCard**: Representação visual de cada item na lista.
+- **Footer**: Exibe o resumo de itens totais e comprados.
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+
+Certifique-se de ter as seguintes ferramentas instaladas:
+
+- Node.js e npm/yarn
+- Git
+
