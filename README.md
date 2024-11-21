@@ -26,12 +26,7 @@ O projeto está organizado nos seguintes componentes:
 - **ItemCard**: Representação visual de cada item na lista.
 - **Footer**: Exibe o resumo de itens totais e comprados.
 
-## 🚀 Como Executar o Projeto
 
-### Pré-requisitos
 
-Certifique-se de ter as seguintes ferramentas instaladas:
 
-- Node.js e npm/yarn
-- Git
 
